@@ -1,0 +1,13 @@
+# Bitcoin Pizza
+
+[![Build Status](https://travis-ci.org/DAGBPA/DAGBPA.svg?branch=master)](https://travis-ci.org/DAGBPA/BitcoinPizza)
+
+Bitcoin Pizza (codename BitcoinPizza) is a fork of the Bitcoin blockchain that will occur at block height 501888, at roughly 00:00:00 UTC January 1, 2018.
+
+At the predetermined block height, Bitcoin Pizza miners will begin creating blocks with a new proof-of-work algorithm, and this will cause a bifurcation of the Bitcoin blockchain. The original Bitcoin blockchain will continue on unaltered, but a new branch of the blockchain will split off from the original chain. The new branch is a distinct blockchain with the same transaction history as Bitcoin up until the fork, but then diverges from it. As a result of this process, a new cryptocurrency will be born.
+
+## Links
+
+* Website: http://p.top
+* Slack: [invitation](https://bitcoinpizza.slack.com/join/shared_invite/enQtMjgxODMwODk4MDk3LWU3YTNkNjI1ZjUwZTdjZTJjZGRiYjEyMjI4MDQzZjAyNGNmNmFhZjlhM2JkMWY5NDI1MWMxYjU0MWU2MjNhYTg)
+* TODO-list: https://trello.com/b/N4JvFCCB/bitcoin-pizza-todos
