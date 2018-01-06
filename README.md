@@ -9,5 +9,5 @@ At the predetermined block height, Bitcoin Pizza miners will begin creating bloc
 ## Links
 
 * Website: http://p.top
-* Slack: [invitation](https://bitcoinpizza.slack.com/join/shared_invite/enQtMjgxODMwODk4MDk3LWU3YTNkNjI1ZjUwZTdjZTJjZGRiYjEyMjI4MDQzZjAyNGNmNmFhZjlhM2JkMWY5NDI1MWMxYjU0MWU2MjNhYTg)
+* Telegram: [invitation](https://t.me/joinchat/HJbvVRHIlpC1y3Nx5vEIEA)
 * TODO-list: https://trello.com/b/N4JvFCCB/bitcoin-pizza-todos
